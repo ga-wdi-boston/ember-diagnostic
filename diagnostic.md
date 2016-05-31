@@ -3,42 +3,47 @@
 What are three advantages of using Ember?
 
 ```sh
-# your answer here
+Routability (back button, bookmarking, etc. work)
+Less AJAX (Ember handles the AJAX behind the scenes)
+Responsiveness (data displays much faster).
 ```
 
 What is the templating system used in Ember?
 
 ```sh
-# your answer here
+Handlebars
 ```
 
 When we code we'll typically start with the Ember Template, but Ember has a
 project generator, what is the command to generate a new ember application?
 
 ```sh
-# your answer here
+ember new
 ```
 
 Name at least two parts of an Ember application (1.0 or 2.0):
 
 ```sh
-# your answer here
+Views
+Templates
 ```
 
 How does a component differ from an Ember template?
 
 ```sh
-# your answer here
+Component is a feature of Ember 2. The component will replace controllers and views in Ember 3. Like views, components have templates associate with them. A component can be invoked from within a template, but is not the template itself.
 ```
 
 Is Ember opinionated?
 
 ```sh
-# your answer here
+Yes.
 ```
 
 In Ember what is a route's job (please list three)?
 
 ```sh
-# your answer here
+* Parsing information contained in the URL
+* Linking the Router to a particular view/template
+* Loading the data for the particular UI element via a method called model
 ```
