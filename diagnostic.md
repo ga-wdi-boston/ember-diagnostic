@@ -33,6 +33,8 @@ How does a component differ from an Ember template?
 ```sh
 You could define your own, application-specific HTML tags, then implement their behavior using JavaScript.
 An ember template is limited by the tags set by the W3C.
+
+Additionally, a components can be used in mutliple places in an Ember app
 ```
 
 Is Ember opinionated?
