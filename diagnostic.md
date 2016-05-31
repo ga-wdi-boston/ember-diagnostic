@@ -1,7 +1,5 @@
 # Ember Diagnostic
 
-## Ember Basics
-
 What are three advantages of using Ember?
 
 ```sh
@@ -21,19 +19,25 @@ project generator, what is the command to generate a new ember application?
 # your answer here
 ```
 
-Name at least two parts of an Ember application (1.0 or 2.0)?
+Name at least two parts of an Ember application (1.0 or 2.0):
 
 ```sh
 # your answer here
 ```
 
-In your own words what is an Ember component?
+How does a component differ from an Ember template?
 
 ```sh
 # your answer here
 ```
 
-Is Ember opinionated?  How so or how now?
+Is Ember opinionated?
+
+```sh
+# your answer here
+```
+
+In Ember what is a route's job (please list three)?
 
 ```sh
 # your answer here
