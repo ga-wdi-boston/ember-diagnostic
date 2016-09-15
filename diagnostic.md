@@ -6,7 +6,8 @@ What are three advantages of using Ember?
 # your answer here
 ```
 
-What is the templating system used in Ember?
+What is the templating system used in Ember? How it is related to
+handlebars?
 
 ```sh
 # your answer here
