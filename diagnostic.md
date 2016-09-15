@@ -12,13 +12,6 @@ What is the templating system used in Ember?
 # your answer here
 ```
 
-When we code we'll typically start with the Ember Template, but Ember has a
-project generator, what is the command to generate a new ember application?
-
-```sh
-# your answer here
-```
-
 Name at least two parts of an Ember application (1.0 or 2.0):
 
 ```sh
