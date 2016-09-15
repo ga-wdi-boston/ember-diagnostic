@@ -25,7 +25,7 @@ How does a component differ from an Ember template?
 # your answer here
 ```
 
-Is Ember opinionated?
+What is an opinionated framework? Is Ember opinionated? How or how not?
 
 ```sh
 # your answer here
