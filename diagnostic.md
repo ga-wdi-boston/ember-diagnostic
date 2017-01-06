@@ -3,36 +3,40 @@
 What are three advantages of using Ember?
 
 ```sh
-# your answer here
+1. It provides data binding.
+2. It follows a lot of conventions so the developer doesnt have to make as many decisions.
+3. It can make ajax calls for you and cache the data on the front-end.
 ```
 
 What is the templating system used in Ember? How it is related to
 handlebars?
 
 ```sh
-# your answer here
+The templating system allows you to change the users view based on their actions.  Its handlebars with some added helpers.
 ```
 
 Name at least two layers of an Ember application (1.0 or 2.0):
 
 ```sh
-# your answer here
+Routers, Models, Templates, Components
 ```
 
 How does a component differ from an Ember template?
 
 ```sh
-# your answer here
+A template is tied to a model and can contain multiple components.  Components are typically used for reusable sections of a template.
 ```
 
 What is an opinionated framework? Is Ember opinionated? How or how not?
 
 ```sh
-# your answer here
+An opinionated framework is one that contains a lot of conventions and best practices.  Ember is opinionated because it expects you to follow certain naming conventions, file structures, etc.
 ```
 
 In Ember what is a route's job (please list three)?
 
 ```sh
-# your answer here
+1. It parses the URL
+2. Based on that URL it displays a template
+3. It loads data via the model
 ```
