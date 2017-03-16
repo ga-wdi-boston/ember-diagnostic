@@ -13,7 +13,7 @@ handlebars?
 # your answer here
 ```
 
-Name at least two layers of an Ember application:
+Name and describe at least two layers of an Ember application:
 
 ```sh
 # your answer here
