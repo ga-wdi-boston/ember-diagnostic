@@ -3,36 +3,40 @@
 What are three advantages of using Ember?
 
 ```sh
-# your answer here
+Embers CLI, Ember usually will use much less code and look more elegant than most other
+frameworks, URL support
 ```
 
 What is the templating system used in Ember? How it is related to
 handlebars?
 
 ```sh
-# your answer here
+Templates are backed with context in both Handlebars and Ember, in Emeber the
+context is the controller
 ```
 
 Name and describe at least two layers of an Ember application:
 
 ```sh
-# your answer here
+Routes and Controllers
 ```
 
 How does a component differ from an Ember template?
 
 ```sh
-# your answer here
+You can create your own tags with components
 ```
 
 What is an opinionated framework? Is Ember opinionated? How or how not?
 
 ```sh
-# your answer here
+Ember is an opinionated framework, people believe Ember is more elegant and
+allows a developer to write less code. This is an opinion when it comes to
+choosing a framework to write in.
 ```
 
 In Ember what is a route's job (please list three)?
 
 ```sh
-# your answer here
+Loading the appropriate model is one job of a route, the route sets the return value from the model hook as the model property of the controller and routes always display the model
 ```
